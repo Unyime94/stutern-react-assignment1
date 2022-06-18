@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 2, 10);
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.header-class {
+    color: orange;
+    font-size: calc(25px + 2vmin);
+}
